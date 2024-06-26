@@ -1,0 +1,22 @@
+languageCode = "zh-cn"
+languageName = "简体中文"
+weight = 4
+title = "8xWorld"
+
+[params]
+  displayName = "简体中文"
+  isoCode = "zh-cn"
+  rtl = false
+  dateFormat = "2006-01-02"
+  logo = "img/logo_transparent.png"
+  description = "Everyone becomes an AI Super Individual"
+
+[author]
+  name = "Xuan Cheung"
+  image = "img/nuno_avatar.jpg"
+  headline = "Prompt Engineer & ENS+IPFS dWebsite Expert"
+  bio = "Prompt Engineer & ENS+IPFS dWebsite Expert"
+  links = [
+    { x-twitter = "https://twitter.com/helloxai" },
+    { github = "https://github.com/bigiod/" },
+  ]
